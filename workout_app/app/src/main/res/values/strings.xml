@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"> Skive </string>
+    <string name="routine_header">Routine</string>
+    <string name="workout_header">Workout</string>
+    <string name="progression_header">Progression</string>
+    <string name="menu_header"> Menu</string>
+</resources>
